@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-ConvenientBanner-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-ConvenientBanner-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-ConvenientBanner-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-ConvenientBanner-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/convenientbanner/Android-ConvenientBanner-master.convenientbanner.iml" filepath="$PROJECT_DIR$/.idea/modules/convenientbanner/Android-ConvenientBanner-master.convenientbanner.iml" />
+    </modules>
+  </component>
+</project>
