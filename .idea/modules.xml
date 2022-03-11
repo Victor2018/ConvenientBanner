@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-ConvenientBanner-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-ConvenientBanner-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-ConvenientBanner-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-ConvenientBanner-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/convenientbanner/Android-ConvenientBanner-master.convenientbanner.iml" filepath="$PROJECT_DIR$/.idea/modules/convenientbanner/Android-ConvenientBanner-master.convenientbanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConvenientBanner.iml" filepath="$PROJECT_DIR$/.idea/modules/ConvenientBanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ConvenientBanner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ConvenientBanner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/convenientbanner/ConvenientBanner.convenientbanner.iml" filepath="$PROJECT_DIR$/.idea/modules/convenientbanner/ConvenientBanner.convenientbanner.iml" />
     </modules>
   </component>
 </project>

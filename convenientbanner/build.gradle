@@ -2,14 +2,19 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
+// JitPack Maven
+apply plugin: 'com.github.dcendents.android-maven'
+// Group
+group='com.github.Victor2018'
+
 version = "2.1.5"
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 32
 
     defaultConfig {
         minSdkVersion 14
-        targetSdkVersion 28
+        targetSdkVersion 32
         versionCode 9
         versionName "2.1.5"
     }
