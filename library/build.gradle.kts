@@ -6,9 +6,7 @@ plugins {
 
 android {
     namespace = "com.cherry.library.convenientbanner"
-    compileSdk {
-        version = release(34)
-    }
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 24

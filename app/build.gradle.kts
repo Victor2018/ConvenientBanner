@@ -5,14 +5,12 @@ plugins {
 
 android {
     namespace = "com.cherry.convenientbanner"
-    compileSdk {
-        version = release(34)
-    }
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.cherry.convenientbanner"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
